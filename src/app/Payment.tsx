@@ -10,8 +10,8 @@ function Payment() {
   const [showModal, setShowModal] = useState(false);
   const [mpesaMessage, setMpesaMessage] = useState('');
   const amount = 100;
-  const tillNumber = '5204479';
-  const businessName = 'FOOTBALL HIGHWAY ENTERPRISES';
+  const tillNumber = '8334020';
+  const businessName = 'ARCTIC SOLUTIONS';
 
   useEffect(() => {
     if (!hasPurpose) {

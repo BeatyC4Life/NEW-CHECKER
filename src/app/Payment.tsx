@@ -10,8 +10,8 @@ function Payment() {
   const [showModal, setShowModal] = useState(false);
   const [mpesaMessage, setMpesaMessage] = useState('');
   const amount = 100;
-  const tillNumber = '8334020';
-  const businessName = 'ARCTIC SOLUTIONS';
+  const tillNumber = '3086901';
+  const businessName = 'Bavanche Solutions';
 
   useEffect(() => {
     if (!hasPurpose) {

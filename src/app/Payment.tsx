@@ -9,7 +9,7 @@ function Payment() {
   const { hasPurpose, setHasPaid } = useUserFlow();
   const [showModal, setShowModal] = useState(false);
   const [mpesaMessage, setMpesaMessage] = useState('');
-  const amount = 100;
+  const amount = 200;
   const tillNumber = '8334020';
   const businessName = 'Arctic Solutions';
 

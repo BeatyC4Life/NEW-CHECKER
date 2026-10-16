@@ -1,7 +1,8 @@
 // Pricing and payment configuration
 export const paymentConfig = {
   // Report pricing
-  amount: 200, // Amount in KES
+  amount: 150, // Amount in KES
+  amount: 250, // Amount in KES
 
   // M-PESA payment details  
   mpesa: {
@@ -16,11 +17,11 @@ export const paymentConfig = {
       description: 'View your current credit score'
     },
     {
-      title: 'Analysis',
+      title: 'CRB Analysis',
       description: 'Detailed credit analysis'
     },
     {
-      title: 'Full Report',
+      title: 'Full CRB Report',
       description: 'Complete credit report'
     }
   ],

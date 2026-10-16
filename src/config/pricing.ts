@@ -16,11 +16,11 @@ export const paymentConfig = {
       description: 'View your current credit score'
     },
     {
-      title: 'Analysis',
+      title: 'CRB Analysis',
       description: 'Detailed credit analysis'
     },
     {
-      title: 'Full Report',
+      title: 'Full CRB Report',
       description: 'Complete credit report'
     }
   ],
@@ -31,6 +31,7 @@ export const paymentConfig = {
     'Know your credit standing',
     'Track credit improvements',
     'Credit Score Simulator',
+    'Monthly CRB Score Updates',
     'Better financial decisions'
   ]
 };

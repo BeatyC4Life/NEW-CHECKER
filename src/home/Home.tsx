@@ -81,7 +81,7 @@ function Home() {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-2">
               <Shield className="w-8 h-8" />
-              <span className="text-2xl font-bold">CRB Check and Clearance</span>
+              <span className="text-2xl font-bold">CRB Check & Clearance</span>
             </div>
             <button 
               onClick={toggleMobileMenu}

@@ -30,6 +30,7 @@ export const paymentConfig = {
     'Quick loan approvals',
     'Know your credit standing',
     'Track credit improvements',
+    'Credit Score Simulator',
     'Better financial decisions'
   ]
 };

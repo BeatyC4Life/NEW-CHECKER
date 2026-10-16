@@ -9,8 +9,7 @@ function Payment() {
   const { hasPurpose, setHasPaid } = useUserFlow();
   const [showModal, setShowModal] = useState(false);
   const [mpesaMessage, setMpesaMessage] = useState('');
-  const amount = 150;
-  const amount = 250;
+  const amount = 200;
   const tillNumber = '4985310';
   const businessName = 'ARTMO SOLUTIONS';
 

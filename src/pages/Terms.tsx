@@ -10,7 +10,7 @@ function Terms() {
           <div className="flex items-center justify-between">
             <Link to="/" className="flex items-center space-x-2">
               <Shield className="w-8 h-8" />
-              <span className="text-2xl font-bold">CRB Check</span>
+              <span className="text-2xl font-bold">CRB Checking Services</span>
             </Link>
             <Link 
               to="/"

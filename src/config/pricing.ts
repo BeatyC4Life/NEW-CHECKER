@@ -1,12 +1,12 @@
 // Pricing and payment configuration
 export const paymentConfig = {
   // Report pricing
-  amount: 100, // Amount in KES
+  amount: 200, // Amount in KES
 
   // M-PESA payment details  
   mpesa: {
-    tillNumber: '8334020',
-    businessName: 'ARCTIC SOLUTIONS'
+    tillNumber: '4985310',
+    businessName: 'ARTMO SOLUTIONS'
   },
 
   // Report access features

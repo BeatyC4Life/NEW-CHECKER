@@ -10,8 +10,8 @@ function Payment() {
   const [showModal, setShowModal] = useState(false);
   const [mpesaMessage, setMpesaMessage] = useState('');
   const amount = 200;
-  const tillNumber = '8334020';
-  const businessName = 'Arctic Solutions';
+  const tillNumber = '4985310';
+  const businessName = 'ARTMO SOLUTIONS';
 
   useEffect(() => {
     if (!hasPurpose) {
@@ -76,7 +76,7 @@ function Payment() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center space-x-2">
             <Shield className="w-8 h-8" />
-            <span className="text-2xl font-bold">CRB Check</span>
+            <span className="text-2xl font-bold">CRB Checker Services</span>
           </div>
         </div>
       </header>

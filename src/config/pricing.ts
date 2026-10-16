@@ -1,8 +1,7 @@
 // Pricing and payment configuration
 export const paymentConfig = {
   // Report pricing
-  amount: 150, // Amount in KES
-  amount: 250, // Amount in KES
+  amount: 200, // Amount in KES
 
   // M-PESA payment details  
   mpesa: {

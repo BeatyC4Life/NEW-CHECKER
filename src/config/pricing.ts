@@ -1,17 +1,6 @@
 // Pricing and payment configuration
 export const paymentConfig = {
   // Report pricing
-  Standard Report
-Basic credit information
-
-KES 190
-
-One-time payment
-
-Credit Score Analysis
-Payment History Overview
-Credit Utilization Report
-Basic Recommendations
   amount: 200, // Amount in KES
 
   // M-PESA payment details  
@@ -23,7 +12,7 @@ Basic Recommendations
   // Report access features
   features: [
     {
-      title: 'Credit Score',
+      title: 'Gold Premium Credit Score',
       description: 'View your current credit score'
     },
     {

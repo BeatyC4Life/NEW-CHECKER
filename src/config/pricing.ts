@@ -12,7 +12,7 @@ export const paymentConfig = {
   // Report access features
   features: [
     {
-      title: 'Premium Credit Score',
+      title: 'Credit Score',
       description: 'View your current credit score'
     },
     {
